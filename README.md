@@ -40,3 +40,7 @@ jokers:
   - Mad Joker
   - Zany Joker
   - Raised Fist
+```
+The key detail is here:
+For part1: https://www.youtube.com/watch?v=N-UPiTi3-_I&t=267s
+For part2: https://www.youtube.com/watch?v=YyXQ2-nYyVk
